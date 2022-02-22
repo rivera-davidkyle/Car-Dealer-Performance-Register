@@ -1,11 +1,4 @@
 /*****************************************
- ** File:    hash.h
- ** Project: CMSC 341 Project 4, Fall 2020
- ** Author:  Kyle Rivera
- ** Date:    1/29/2020
- ** Section: 06
- ** E-mail:  drivera1@umbc.edu
- **
  ** This file contains the hash table class for project 4.
  ** This hash table class contains insertion and removal
  ** methods, as well as linear probing for collision handling.
