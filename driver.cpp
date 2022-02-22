@@ -1,11 +1,4 @@
 /*****************************************
- ** File:    mytest.cpp
- ** Project: CMSC 341 Project 4, Fall 2020
- ** Author:  Kyle Rivera
- ** Date:    1/29/2020
- ** Section: 06
- ** E-mail:  drivera1@umbc.edu
- **
  ** This file contains the test drive program for project 4.
  ** This program tests exceptions, edge cases, insertions,
  ** and removals in the heap and hash table classes.
