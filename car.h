@@ -1,4 +1,3 @@
-// CMSC 341 - Fall 2020 - Project 4
 // car.h
 // Simple class for use with Heap and HashTable classes
 
