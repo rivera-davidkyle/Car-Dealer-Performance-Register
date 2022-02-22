@@ -1,11 +1,4 @@
 /*****************************************
- ** File:    heap.h
- ** Project: CMSC 341 Project 4, Fall 2020
- ** Author:  Kyle Rivera
- ** Date:    1/29/2020
- ** Section: 06
- ** E-mail:  drivera1@umbc.edu
- **
  ** This file contains the heap class for project 4.
  ** This heap class contains insertion and removal
  ** methods that maintain the max-heap structure
